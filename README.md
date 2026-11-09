@@ -90,7 +90,7 @@
        width="38" alt="Instagram">
 </a>
 
-<a href="https://www.linkedin.com/in/hafiz-akmal-riyadi-a35b19435/">
+<a href="https://pin.it/3XvpPDbo9">
   <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymX5GXfUU5COzWVlUW3Gvt_S32WVk9Nq6JByDXoZsoQ&s"
        width="38" alt="LinkedIn">
 </a>
