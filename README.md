@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/hafiz-akmal-riyadi-a35b19435/">
-  <img src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:6c373362-1d10-46a1-bb4c-fcb492af6363/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png"
+  <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymX5GXfUU5COzWVlUW3Gvt_S32WVk9Nq6JByDXoZsoQ&s"
        width="38" alt="LinkedIn">
 </a>
 
