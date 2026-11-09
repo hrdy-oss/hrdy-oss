@@ -83,12 +83,19 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" height="32"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="32"/>
+<div align="center">
 
+<a href="https://www.instagram.com/USERNAME/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F"
+       width="38" alt="Instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/hafiz-akmal-riyadi-a35b19435/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+       width="38" alt="LinkedIn">
+</a>
+
+</div>
 ```text
 ★ ★ ★  GAME OVER? NO WAY. PRESS START TO CONTINUE  ★ ★ ★
 ```
