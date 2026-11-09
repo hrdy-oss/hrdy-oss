@@ -56,11 +56,15 @@
 <!-- Ganti REPO_NAME_1 dan REPO_NAME_2 dengan nama repo kamu / Replace with your repo names -->
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=remindercloud_1&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/remindercloud)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=thrifting&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/thrifting)
+<a href="https://github.com/hrdy-oss/remindercloud">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="Project 1 GitHub logo" height="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hrdy-oss/thrifting">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="Project 2 GitHub logo" height="48"/>
+</a>
 
 </div>
-
 <img src="divider.svg" width="100%" alt="divider"/>
 
 ## 🟡 Kontribusi / Contributions
