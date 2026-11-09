@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" alt="divider"/>
 
 ##   About Me
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats
 
