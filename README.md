@@ -17,7 +17,7 @@
 ##   About Me
 
 -  **Student Developer & Full Stack Enthusiast** dari **SMK N 1 Adiwerna** / *Vocational student who loves building things for the web*
--  Currently building: **[remindercloud](https://reminder.freedev.app/login)**
+-  Currently building: **[remindercloud](https://reminder.freedev.app/index.php?p=masuk)**
 
 -  Currently learning: *Laravel, Docker, AWS, IoT*
 - 🐧 Suka utak-atik **Linux** (Arch · CachyOS · Ubuntu · Red Hat) / *Linux tinkerer*
