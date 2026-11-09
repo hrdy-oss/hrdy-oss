@@ -23,7 +23,7 @@
 - Hobi eksperimen **Arduino UNO & IoT** / *Arduino & IoT experiments*
 - 💬 Ngobrol soal web, server, atau IoT? **Chat aja!** / *Let's talk web, servers, or IoT!*
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" alt="divider"/>
 
 ##  Tech Stack
 
@@ -56,8 +56,8 @@
 <!-- Ganti REPO_NAME_1 dan REPO_NAME_2 dengan nama repo kamu / Replace with your repo names -->
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=REPO_NAME_1&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=REPO_NAME_2&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/REPO_NAME_2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=remindercloud_1&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/remindercloud)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=hrdy-oss&repo=thrifting&border_color=FFE600&border_radius=0&bg_color=000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600)](https://github.com/hrdy-oss/thrifting)
 
 </div>
 
