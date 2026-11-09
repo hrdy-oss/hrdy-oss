@@ -90,7 +90,7 @@
        width="38" alt="Instagram">
 </a>
 
-<a href="https://pin.it/3XvpPDbo9">
+<a href="https://i.pinimg.com/736x/ab/60/12/ab6012b6cf13eef094b177aa3f6d0f47.jpg">
   <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymX5GXfUU5COzWVlUW3Gvt_S32WVk9Nq6JByDXoZsoQ&s"
        width="38" alt="LinkedIn">
 </a>
