@@ -90,8 +90,8 @@
        width="38" alt="Instagram">
 </a>
 
-<a href="https://www.waalaxy.com/blog-static/_next/image?url=https%3A%2F%2Fxahuhfmsgeivalkimrbm.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia%2Fdff8b840-aee3-4445-bde8-c006a4b98852%2F1782983139677-wp-1-2.webp&w=3840&q=80">
-  <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymX5GXfUU5COzWVlUW3Gvt_S32WVk9Nq6JByDXoZsoQ&s"
+<a href="https://www.linkedin.com/in/hafiz-akmal-riyadi-a35b19435/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymX5GXfUU5COzWVlUW3Gvt_S32WVk9Nq6JByDXoZsoQ&s"
        width="38" alt="LinkedIn">
 </a>
 
