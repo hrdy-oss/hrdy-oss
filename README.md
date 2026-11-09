@@ -85,13 +85,13 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/USERNAME/">
+<a href="https://www.instagram.com/_hafzhryd/">
   <img src="https://cdn.simpleicons.org/instagram/E4405F"
        width="38" alt="Instagram">
 </a>
 
 <a href="https://www.linkedin.com/in/hafiz-akmal-riyadi-a35b19435/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWl56yp53CmDsBhJNYfEUoX0HLxEJRbuypUJkwlkaVJw&s=10"
        width="38" alt="LinkedIn">
 </a>
 
