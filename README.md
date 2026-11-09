@@ -17,7 +17,8 @@
 ##   About Me
 
 -  **Student Developer & Full Stack Enthusiast** dari **SMK N 1 Adiwerna** / *Vocational student who loves building things for the web*
--  Currently building: *proyek di repo-repo saya / projects in my repositories*
+-  Currently building: **[Clouven.two-V2](https://reminder.freedev.app)**
+
 -  Currently learning: *Laravel, Docker, AWS, IoT*
 - 🐧 Suka utak-atik **Linux** (Arch · CachyOS · Ubuntu · Red Hat) / *Linux tinkerer*
 - Hobi eksperimen **Arduino UNO & IoT** / *Arduino & IoT experiments*
